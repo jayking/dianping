@@ -72,6 +72,7 @@ def main(args):
         msg = "parse city name:%s id:%s" % (record["city_name"], record["id"])
         logger.debug(msg)
 
+    items = sorted(items, key=lambda obj: obj["id"])
     result["result"] = items
     result["total"] = len(items)
     result["last_update"] = datetime.datetime.utcnow()
