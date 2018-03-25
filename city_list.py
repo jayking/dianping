@@ -20,7 +20,6 @@ import groper.store
 logger = logging.getLogger(__name__)
 logger.addHandler(groper.cfg.log_hdl_steam)
 logger.setLevel(logging.DEBUG)
-logger.setLevel(logging.DEBUG)
 
 
 def main(args):
