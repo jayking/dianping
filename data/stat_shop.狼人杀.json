@@ -1,0 +1,1351 @@
+{
+  "total": 192, 
+  "result": [
+    {
+      "url": "http//www.dianping.com/shanghai", 
+      "city_name": "shanghai", 
+      "total": 204, 
+      "id": 1, 
+      "city_name_cn": "上海"
+    }, 
+    {
+      "url": "http//www.dianping.com/beijing", 
+      "city_name": "beijing", 
+      "total": 148, 
+      "id": 2, 
+      "city_name_cn": "北京"
+    }, 
+    {
+      "url": "http//www.dianping.com/xian", 
+      "city_name": "xian", 
+      "total": 89, 
+      "id": 17, 
+      "city_name_cn": "西安"
+    }, 
+    {
+      "url": "http//www.dianping.com/changsha", 
+      "city_name": "changsha", 
+      "total": 83, 
+      "id": 344, 
+      "city_name_cn": "长沙"
+    }, 
+    {
+      "url": "http//www.dianping.com/wuhan", 
+      "city_name": "wuhan", 
+      "total": 69, 
+      "id": 16, 
+      "city_name_cn": "武汉"
+    }, 
+    {
+      "url": "http//www.dianping.com/shenyang", 
+      "city_name": "shenyang", 
+      "total": 65, 
+      "id": 18, 
+      "city_name_cn": "沈阳"
+    }, 
+    {
+      "url": "http//www.dianping.com/chengdu", 
+      "city_name": "chengdu", 
+      "total": 58, 
+      "id": 8, 
+      "city_name_cn": "成都"
+    }, 
+    {
+      "url": "http//www.dianping.com/xindu", 
+      "city_name": "xindu", 
+      "total": 51, 
+      "id": 4424, 
+      "city_name_cn": "新都区"
+    }, 
+    {
+      "url": "http//www.dianping.com/tianjin", 
+      "city_name": "tianjin", 
+      "total": 50, 
+      "id": 10, 
+      "city_name_cn": "天津"
+    }, 
+    {
+      "url": "http//www.dianping.com/shuangliu", 
+      "city_name": "shuangliu", 
+      "total": 49, 
+      "id": 1609, 
+      "city_name_cn": "双流区"
+    }, 
+    {
+      "url": "http//www.dianping.com/pixian", 
+      "city_name": "pixian", 
+      "total": 47, 
+      "id": 1610, 
+      "city_name_cn": "郫县"
+    }, 
+    {
+      "url": "http//www.dianping.com/shenzhen", 
+      "city_name": "shenzhen", 
+      "total": 40, 
+      "id": 7, 
+      "city_name_cn": "深圳"
+    }, 
+    {
+      "url": "http//www.dianping.com/guangzhou", 
+      "city_name": "guangzhou", 
+      "total": 37, 
+      "id": 4, 
+      "city_name_cn": "广州"
+    }, 
+    {
+      "url": "http//www.dianping.com/zhengzhou", 
+      "city_name": "zhengzhou", 
+      "total": 35, 
+      "id": 160, 
+      "city_name_cn": "郑州"
+    }, 
+    {
+      "url": "http//www.dianping.com/suzhou", 
+      "city_name": "suzhou", 
+      "total": 33, 
+      "id": 6, 
+      "city_name_cn": "苏州"
+    }, 
+    {
+      "url": "http//www.dianping.com/chongqing", 
+      "city_name": "chongqing", 
+      "total": 32, 
+      "id": 9, 
+      "city_name_cn": "重庆"
+    }, 
+    {
+      "url": "http//www.dianping.com/hangzhou", 
+      "city_name": "hangzhou", 
+      "total": 32, 
+      "id": 3, 
+      "city_name_cn": "杭州"
+    }, 
+    {
+      "url": "http//www.dianping.com/huhehaote", 
+      "city_name": "huhehaote", 
+      "total": 29, 
+      "id": 46, 
+      "city_name_cn": "呼和浩特"
+    }, 
+    {
+      "url": "http//www.dianping.com/changshu", 
+      "city_name": "changshu", 
+      "total": 28, 
+      "id": 417, 
+      "city_name_cn": "常熟"
+    }, 
+    {
+      "url": "http//www.dianping.com/fuling", 
+      "city_name": "fuling", 
+      "total": 28, 
+      "id": 4427, 
+      "city_name_cn": "涪陵区"
+    }, 
+    {
+      "url": "http//www.dianping.com/kunming", 
+      "city_name": "kunming", 
+      "total": 26, 
+      "id": 267, 
+      "city_name_cn": "昆明"
+    }, 
+    {
+      "url": "http//www.dianping.com/lanzhou", 
+      "city_name": "lanzhou", 
+      "total": 25, 
+      "id": 299, 
+      "city_name_cn": "兰州"
+    }, 
+    {
+      "url": "http//www.dianping.com/haerbin", 
+      "city_name": "haerbin", 
+      "total": 24, 
+      "id": 79, 
+      "city_name_cn": "哈尔滨"
+    }, 
+    {
+      "url": "http//www.dianping.com/songming", 
+      "city_name": "songming", 
+      "total": 24, 
+      "id": 1820, 
+      "city_name_cn": "嵩明县"
+    }, 
+    {
+      "url": "http//www.dianping.com/wenzhou", 
+      "city_name": "wenzhou", 
+      "total": 23, 
+      "id": 101, 
+      "city_name_cn": "温州"
+    }, 
+    {
+      "url": "http//www.dianping.com/wuxi", 
+      "city_name": "wuxi", 
+      "total": 22, 
+      "id": 13, 
+      "city_name_cn": "无锡"
+    }, 
+    {
+      "url": "http//www.dianping.com/dalian", 
+      "city_name": "dalian", 
+      "total": 21, 
+      "id": 19, 
+      "city_name_cn": "大连"
+    }, 
+    {
+      "url": "http//www.dianping.com/fuzhou", 
+      "city_name": "fuzhou", 
+      "total": 21, 
+      "id": 14, 
+      "city_name_cn": "福州"
+    }, 
+    {
+      "url": "http//www.dianping.com/hefei", 
+      "city_name": "hefei", 
+      "total": 20, 
+      "id": 110, 
+      "city_name_cn": "合肥"
+    }, 
+    {
+      "url": "http//www.dianping.com/changchun", 
+      "city_name": "changchun", 
+      "total": 19, 
+      "id": 70, 
+      "city_name_cn": "长春"
+    }, 
+    {
+      "url": "http//www.dianping.com/jiangyin", 
+      "city_name": "jiangyin", 
+      "total": 19, 
+      "id": 427, 
+      "city_name_cn": "江阴"
+    }, 
+    {
+      "url": "http//www.dianping.com/qingdao", 
+      "city_name": "qingdao", 
+      "total": 18, 
+      "id": 21, 
+      "city_name_cn": "青岛"
+    }, 
+    {
+      "url": "http//www.dianping.com/nanchang", 
+      "city_name": "nanchang", 
+      "total": 17, 
+      "id": 134, 
+      "city_name_cn": "南昌"
+    }, 
+    {
+      "url": "http//www.dianping.com/shijiazhuang", 
+      "city_name": "shijiazhuang", 
+      "total": 15, 
+      "id": 24, 
+      "city_name_cn": "石家庄"
+    }, 
+    {
+      "url": "http//www.dianping.com/guiyang", 
+      "city_name": "guiyang", 
+      "total": 13, 
+      "id": 258, 
+      "city_name_cn": "贵阳"
+    }, 
+    {
+      "url": "http//www.dianping.com/wuhu", 
+      "city_name": "wuhu", 
+      "total": 13, 
+      "id": 111, 
+      "city_name_cn": "芜湖"
+    }, 
+    {
+      "url": "http//www.dianping.com/xiamen", 
+      "city_name": "xiamen", 
+      "total": 13, 
+      "id": 15, 
+      "city_name_cn": "厦门"
+    }, 
+    {
+      "url": "http//www.dianping.com/taiyuan", 
+      "city_name": "taiyuan", 
+      "total": 12, 
+      "id": 35, 
+      "city_name_cn": "太原"
+    }, 
+    {
+      "url": "http//www.dianping.com/jinan", 
+      "city_name": "jinan", 
+      "total": 11, 
+      "id": 22, 
+      "city_name_cn": "济南"
+    }, 
+    {
+      "url": "http//www.dianping.com/ningbo", 
+      "city_name": "ningbo", 
+      "total": 11, 
+      "id": 11, 
+      "city_name_cn": "宁波"
+    }, 
+    {
+      "url": "http//www.dianping.com/changzhou", 
+      "city_name": "changzhou", 
+      "total": 10, 
+      "id": 93, 
+      "city_name_cn": "常州"
+    }, 
+    {
+      "url": "http//www.dianping.com/mianyang", 
+      "city_name": "mianyang", 
+      "total": 9, 
+      "id": 242, 
+      "city_name_cn": "绵阳"
+    }, 
+    {
+      "url": "http//www.dianping.com/nanning", 
+      "city_name": "nanning", 
+      "total": 9, 
+      "id": 224, 
+      "city_name_cn": "南宁"
+    }, 
+    {
+      "url": "http//www.dianping.com/baotou", 
+      "city_name": "baotou", 
+      "total": 8, 
+      "id": 47, 
+      "city_name_cn": "包头"
+    }, 
+    {
+      "url": "http//www.dianping.com/daqing", 
+      "city_name": "daqing", 
+      "total": 7, 
+      "id": 84, 
+      "city_name_cn": "大庆"
+    }, 
+    {
+      "url": "http//www.dianping.com/taizhou", 
+      "city_name": "taizhou", 
+      "total": 7, 
+      "id": 99, 
+      "city_name_cn": "泰州"
+    }, 
+    {
+      "url": "http//www.dianping.com/xuzhou", 
+      "city_name": "xuzhou", 
+      "total": 7, 
+      "id": 92, 
+      "city_name_cn": "徐州"
+    }, 
+    {
+      "url": "http//www.dianping.com/zhenjiang", 
+      "city_name": "zhenjiang", 
+      "total": 7, 
+      "id": 98, 
+      "city_name_cn": "镇江"
+    }, 
+    {
+      "url": "http//www.dianping.com/anshan", 
+      "city_name": "anshan", 
+      "total": 6, 
+      "id": 58, 
+      "city_name_cn": "鞍山"
+    }, 
+    {
+      "url": "http//www.dianping.com/dongguan", 
+      "city_name": "dongguan", 
+      "total": 6, 
+      "id": 219, 
+      "city_name_cn": "东莞"
+    }, 
+    {
+      "url": "http//www.dianping.com/dongying", 
+      "city_name": "dongying", 
+      "total": 6, 
+      "id": 147, 
+      "city_name_cn": "东营"
+    }, 
+    {
+      "url": "http//www.dianping.com/foshan", 
+      "city_name": "foshan", 
+      "total": 6, 
+      "id": 208, 
+      "city_name_cn": "佛山"
+    }, 
+    {
+      "url": "http//www.dianping.com/haikou", 
+      "city_name": "haikou", 
+      "total": 6, 
+      "id": 23, 
+      "city_name_cn": "海口"
+    }, 
+    {
+      "url": "http//www.dianping.com/jinhua", 
+      "city_name": "jinhua", 
+      "total": 6, 
+      "id": 105, 
+      "city_name_cn": "金华"
+    }, 
+    {
+      "url": "http//www.dianping.com/wulumuqi", 
+      "city_name": "wulumuqi", 
+      "total": 6, 
+      "id": 325, 
+      "city_name_cn": "乌鲁木齐"
+    }, 
+    {
+      "url": "http//www.dianping.com/xiaogan", 
+      "city_name": "xiaogan", 
+      "total": 6, 
+      "id": 183, 
+      "city_name_cn": "孝感"
+    }, 
+    {
+      "url": "http//www.dianping.com/yinchuan", 
+      "city_name": "yinchuan", 
+      "total": 6, 
+      "id": 321, 
+      "city_name_cn": "银川"
+    }, 
+    {
+      "url": "http//www.dianping.com/jilin", 
+      "city_name": "jilin", 
+      "total": 5, 
+      "id": 71, 
+      "city_name_cn": "吉林"
+    }, 
+    {
+      "url": "http//www.dianping.com/langfang", 
+      "city_name": "langfang", 
+      "total": 5, 
+      "id": 33, 
+      "city_name_cn": "廊坊"
+    }, 
+    {
+      "url": "http//www.dianping.com/lianyuangang", 
+      "city_name": "lianyuangang", 
+      "total": 5, 
+      "id": 95, 
+      "city_name_cn": "连云港"
+    }, 
+    {
+      "url": "http//www.dianping.com/nanjing", 
+      "city_name": "nanjing", 
+      "total": 5, 
+      "id": 5, 
+      "city_name_cn": "南京"
+    }, 
+    {
+      "url": "http//www.dianping.com/yiwu", 
+      "city_name": "yiwu", 
+      "total": 5, 
+      "id": 385, 
+      "city_name_cn": "义乌"
+    }, 
+    {
+      "url": "http//www.dianping.com/hengyang", 
+      "city_name": "hengyang", 
+      "total": 4, 
+      "id": 194, 
+      "city_name_cn": "衡阳"
+    }, 
+    {
+      "url": "http//www.dianping.com/huzhou", 
+      "city_name": "huzhou", 
+      "total": 4, 
+      "id": 103, 
+      "city_name_cn": "湖州"
+    }, 
+    {
+      "url": "http//www.dianping.com/yantai", 
+      "city_name": "yantai", 
+      "total": 4, 
+      "id": 148, 
+      "city_name_cn": "烟台"
+    }, 
+    {
+      "url": "http//www.dianping.com/bengbu", 
+      "city_name": "bengbu", 
+      "total": 3, 
+      "id": 112, 
+      "city_name_cn": "蚌埠"
+    }, 
+    {
+      "url": "http//www.dianping.com/lijiang", 
+      "city_name": "lijiang", 
+      "total": 3, 
+      "id": 279, 
+      "city_name_cn": "丽江"
+    }, 
+    {
+      "url": "http//www.dianping.com/lishui", 
+      "city_name": "lishui", 
+      "total": 3, 
+      "id": 109, 
+      "city_name_cn": "丽水"
+    }, 
+    {
+      "url": "http//www.dianping.com/quzhou", 
+      "city_name": "quzhou", 
+      "total": 3, 
+      "id": 106, 
+      "city_name_cn": "衢州"
+    }, 
+    {
+      "url": "http//www.dianping.com/yangzhou", 
+      "city_name": "yangzhou", 
+      "total": 3, 
+      "id": 12, 
+      "city_name_cn": "扬州"
+    }, 
+    {
+      "url": "http//www.dianping.com/yichang", 
+      "city_name": "yichang", 
+      "total": 3, 
+      "id": 179, 
+      "city_name_cn": "宜昌"
+    }, 
+    {
+      "url": "http//www.dianping.com/zhangjiajie", 
+      "city_name": "zhangjiajie", 
+      "total": 3, 
+      "id": 198, 
+      "city_name_cn": "张家界"
+    }, 
+    {
+      "url": "http//www.dianping.com/zhejiangtaizhou", 
+      "city_name": "zhejiangtaizhou", 
+      "total": 3, 
+      "id": 108, 
+      "city_name_cn": "台州"
+    }, 
+    {
+      "url": "http//www.dianping.com/baoding", 
+      "city_name": "baoding", 
+      "total": 2, 
+      "id": 29, 
+      "city_name_cn": "保定"
+    }, 
+    {
+      "url": "http//www.dianping.com/beihai", 
+      "city_name": "beihai", 
+      "total": 2, 
+      "id": 228, 
+      "city_name_cn": "北海"
+    }, 
+    {
+      "url": "http//www.dianping.com/changji", 
+      "city_name": "changji", 
+      "total": 2, 
+      "id": 2243, 
+      "city_name_cn": "昌吉市"
+    }, 
+    {
+      "url": "http//www.dianping.com/huizhou", 
+      "city_name": "huizhou", 
+      "total": 2, 
+      "id": 213, 
+      "city_name_cn": "惠州"
+    }, 
+    {
+      "url": "http//www.dianping.com/jiaxing", 
+      "city_name": "jiaxing", 
+      "total": 2, 
+      "id": 102, 
+      "city_name_cn": "嘉兴"
+    }, 
+    {
+      "url": "http//www.dianping.com/linfen", 
+      "city_name": "linfen", 
+      "total": 2, 
+      "id": 44, 
+      "city_name_cn": "临汾"
+    }, 
+    {
+      "url": "http//www.dianping.com/nantong", 
+      "city_name": "nantong", 
+      "total": 2, 
+      "id": 94, 
+      "city_name_cn": "南通"
+    }, 
+    {
+      "url": "http//www.dianping.com/putian", 
+      "city_name": "putian", 
+      "total": 2, 
+      "id": 127, 
+      "city_name_cn": "莆田"
+    }, 
+    {
+      "url": "http//www.dianping.com/zhuhai", 
+      "city_name": "zhuhai", 
+      "total": 2, 
+      "id": 206, 
+      "city_name_cn": "珠海"
+    }, 
+    {
+      "url": "http//www.dianping.com/anlu", 
+      "city_name": "anlu", 
+      "total": 1, 
+      "id": 1332, 
+      "city_name_cn": "安陆市"
+    }, 
+    {
+      "url": "http//www.dianping.com/anshun", 
+      "city_name": "anshun", 
+      "total": 1, 
+      "id": 261, 
+      "city_name_cn": "安顺"
+    }, 
+    {
+      "url": "http//www.dianping.com/bayannaoer", 
+      "city_name": "bayannaoer", 
+      "total": 1, 
+      "id": 56, 
+      "city_name_cn": "巴彦淖尔"
+    }, 
+    {
+      "url": "http//www.dianping.com/bazhou", 
+      "city_name": "bazhou", 
+      "total": 1, 
+      "id": 489, 
+      "city_name_cn": "霸州市"
+    }, 
+    {
+      "url": "http//www.dianping.com/benxi", 
+      "city_name": "benxi", 
+      "total": 1, 
+      "id": 60, 
+      "city_name_cn": "本溪"
+    }, 
+    {
+      "url": "http//www.dianping.com/changshou", 
+      "city_name": "changshou", 
+      "total": 1, 
+      "id": 4428, 
+      "city_name_cn": "长寿区"
+    }, 
+    {
+      "url": "http//www.dianping.com/changzhi", 
+      "city_name": "changzhi", 
+      "total": 1, 
+      "id": 38, 
+      "city_name_cn": "长治"
+    }, 
+    {
+      "url": "http//www.dianping.com/chenggong", 
+      "city_name": "chenggong", 
+      "total": 1, 
+      "id": 1816, 
+      "city_name_cn": "呈贡区"
+    }, 
+    {
+      "url": "http//www.dianping.com/chuxiong", 
+      "city_name": "chuxiong", 
+      "total": 1, 
+      "id": 1898, 
+      "city_name_cn": "楚雄市"
+    }, 
+    {
+      "url": "http//www.dianping.com/danyang", 
+      "city_name": "danyang", 
+      "total": 1, 
+      "id": 864, 
+      "city_name_cn": "丹阳市"
+    }, 
+    {
+      "url": "http//www.dianping.com/datong", 
+      "city_name": "datong", 
+      "total": 1, 
+      "id": 36, 
+      "city_name_cn": "大同"
+    }, 
+    {
+      "url": "http//www.dianping.com/dezhou", 
+      "city_name": "dezhou", 
+      "total": 1, 
+      "id": 156, 
+      "city_name_cn": "德州"
+    }, 
+    {
+      "url": "http//www.dianping.com/dongyang", 
+      "city_name": "dongyang", 
+      "total": 1, 
+      "id": 894, 
+      "city_name_cn": "东阳"
+    }, 
+    {
+      "url": "http//www.dianping.com/ezhou", 
+      "city_name": "ezhou", 
+      "total": 1, 
+      "id": 181, 
+      "city_name_cn": "鄂州"
+    }, 
+    {
+      "url": "http//www.dianping.com/feidong", 
+      "city_name": "feidong", 
+      "total": 1, 
+      "id": 921, 
+      "city_name_cn": "肥东县"
+    }, 
+    {
+      "url": "http//www.dianping.com/fujin", 
+      "city_name": "fujin", 
+      "total": 1, 
+      "id": 797, 
+      "city_name_cn": "富锦市"
+    }, 
+    {
+      "url": "http//www.dianping.com/fushun", 
+      "city_name": "fushun", 
+      "total": 1, 
+      "id": 59, 
+      "city_name_cn": "抚顺"
+    }, 
+    {
+      "url": "http//www.dianping.com/ganzhou", 
+      "city_name": "ganzhou", 
+      "total": 1, 
+      "id": 140, 
+      "city_name_cn": "赣州"
+    }, 
+    {
+      "url": "http//www.dianping.com/gaoling", 
+      "city_name": "gaoling", 
+      "total": 1, 
+      "id": 2007, 
+      "city_name_cn": "高陵区"
+    }, 
+    {
+      "url": "http//www.dianping.com/guangyuan", 
+      "city_name": "guangyuan", 
+      "total": 1, 
+      "id": 243, 
+      "city_name_cn": "广元"
+    }, 
+    {
+      "url": "http//www.dianping.com/haimen", 
+      "city_name": "haimen", 
+      "total": 1, 
+      "id": 857, 
+      "city_name_cn": "海门市"
+    }, 
+    {
+      "url": "http//www.dianping.com/handan", 
+      "city_name": "handan", 
+      "total": 1, 
+      "id": 27, 
+      "city_name_cn": "邯郸"
+    }, 
+    {
+      "url": "http//www.dianping.com/hanzhong", 
+      "city_name": "hanzhong", 
+      "total": 1, 
+      "id": 295, 
+      "city_name_cn": "汉中"
+    }, 
+    {
+      "url": "http//www.dianping.com/hebi", 
+      "city_name": "hebi", 
+      "total": 1, 
+      "id": 165, 
+      "city_name_cn": "鹤壁"
+    }, 
+    {
+      "url": "http//www.dianping.com/hechuan", 
+      "city_name": "hechuan", 
+      "total": 1, 
+      "id": 4429, 
+      "city_name_cn": "合川区"
+    }, 
+    {
+      "url": "http//www.dianping.com/hekou", 
+      "city_name": "hekou", 
+      "total": 1, 
+      "id": 4434, 
+      "city_name_cn": "河口"
+    }, 
+    {
+      "url": "http//www.dianping.com/heshan", 
+      "city_name": "heshan", 
+      "total": 1, 
+      "id": 1506, 
+      "city_name_cn": "鹤山市"
+    }, 
+    {
+      "url": "http//www.dianping.com/huaian", 
+      "city_name": "huaian", 
+      "total": 1, 
+      "id": 96, 
+      "city_name_cn": "淮安"
+    }, 
+    {
+      "url": "http//www.dianping.com/huanggang", 
+      "city_name": "huanggang", 
+      "total": 1, 
+      "id": 185, 
+      "city_name_cn": "黄冈"
+    }, 
+    {
+      "url": "http//www.dianping.com/huangshan", 
+      "city_name": "huangshan", 
+      "total": 1, 
+      "id": 118, 
+      "city_name_cn": "黄山"
+    }, 
+    {
+      "url": "http//www.dianping.com/huangshi", 
+      "city_name": "huangshi", 
+      "total": 1, 
+      "id": 177, 
+      "city_name_cn": "黄石"
+    }, 
+    {
+      "url": "http//www.dianping.com/huludao", 
+      "city_name": "huludao", 
+      "total": 1, 
+      "id": 69, 
+      "city_name_cn": "葫芦岛"
+    }, 
+    {
+      "url": "http//www.dianping.com/jiamusi", 
+      "city_name": "jiamusi", 
+      "total": 1, 
+      "id": 86, 
+      "city_name_cn": "佳木斯"
+    }, 
+    {
+      "url": "http//www.dianping.com/jianshan", 
+      "city_name": "jianshan", 
+      "total": 1, 
+      "id": 888, 
+      "city_name_cn": "江山市"
+    }, 
+    {
+      "url": "http//www.dianping.com/jiaozuo", 
+      "city_name": "jiaozuo", 
+      "total": 1, 
+      "id": 167, 
+      "city_name_cn": "焦作"
+    }, 
+    {
+      "url": "http//www.dianping.com/jingjian", 
+      "city_name": "jingjian", 
+      "total": 1, 
+      "id": 853, 
+      "city_name_cn": "靖江"
+    }, 
+    {
+      "url": "http//www.dianping.com/jining", 
+      "city_name": "jining", 
+      "total": 1, 
+      "id": 150, 
+      "city_name_cn": "济宁"
+    }, 
+    {
+      "url": "http//www.dianping.com/jinmen", 
+      "city_name": "jinmen", 
+      "total": 1, 
+      "id": 182, 
+      "city_name_cn": "荆门"
+    }, 
+    {
+      "url": "http//www.dianping.com/jintang", 
+      "city_name": "jintang", 
+      "total": 1, 
+      "id": 1608, 
+      "city_name_cn": "金堂县"
+    }, 
+    {
+      "url": "http//www.dianping.com/jiujiang", 
+      "city_name": "jiujiang", 
+      "total": 1, 
+      "id": 137, 
+      "city_name_cn": "九江"
+    }, 
+    {
+      "url": "http//www.dianping.com/jixi", 
+      "city_name": "jixi", 
+      "total": 1, 
+      "id": 81, 
+      "city_name_cn": "鸡西"
+    }, 
+    {
+      "url": "http//www.dianping.com/kaili", 
+      "city_name": "kaili", 
+      "total": 1, 
+      "id": 1779, 
+      "city_name_cn": "凯里市"
+    }, 
+    {
+      "url": "http//www.dianping.com/kelamayi", 
+      "city_name": "kelamayi", 
+      "total": 1, 
+      "id": 326, 
+      "city_name_cn": "克拉玛依"
+    }, 
+    {
+      "url": "http//www.dianping.com/kunshan", 
+      "city_name": "kunshan", 
+      "total": 1, 
+      "id": 416, 
+      "city_name_cn": "昆山"
+    }, 
+    {
+      "url": "http//www.dianping.com/leiyang", 
+      "city_name": "leiyang", 
+      "total": 1, 
+      "id": 1408, 
+      "city_name_cn": "耒阳市"
+    }, 
+    {
+      "url": "http//www.dianping.com/liaocheng", 
+      "city_name": "liaocheng", 
+      "total": 1, 
+      "id": 157, 
+      "city_name_cn": "聊城"
+    }, 
+    {
+      "url": "http//www.dianping.com/liaoyang", 
+      "city_name": "liaoyang", 
+      "total": 1, 
+      "id": 65, 
+      "city_name_cn": "辽阳"
+    }, 
+    {
+      "url": "http//www.dianping.com/lingbao", 
+      "city_name": "lingbao", 
+      "total": 1, 
+      "id": 1216, 
+      "city_name_cn": "灵宝市"
+    }, 
+    {
+      "url": "http//www.dianping.com/linyi", 
+      "city_name": "linyi", 
+      "total": 1, 
+      "id": 155, 
+      "city_name_cn": "临沂"
+    }, 
+    {
+      "url": "http//www.dianping.com/linyixian", 
+      "city_name": "linyixian", 
+      "total": 1, 
+      "id": 1136, 
+      "city_name_cn": "临邑县"
+    }, 
+    {
+      "url": "http//www.dianping.com/liukou", 
+      "city_name": "liukou", 
+      "total": 1, 
+      "id": 1155, 
+      "city_name_cn": "龙口市"
+    }, 
+    {
+      "url": "http//www.dianping.com/liuzhou", 
+      "city_name": "liuzhou", 
+      "total": 1, 
+      "id": 225, 
+      "city_name_cn": "柳州"
+    }, 
+    {
+      "url": "http//www.dianping.com/luancheng", 
+      "city_name": "luancheng", 
+      "total": 1, 
+      "id": 446, 
+      "city_name_cn": "栾城区"
+    }, 
+    {
+      "url": "http//www.dianping.com/luoyang", 
+      "city_name": "luoyang", 
+      "total": 1, 
+      "id": 162, 
+      "city_name_cn": "洛阳"
+    }, 
+    {
+      "url": "http//www.dianping.com/meishan", 
+      "city_name": "meishan", 
+      "total": 1, 
+      "id": 248, 
+      "city_name_cn": "眉山"
+    }, 
+    {
+      "url": "http//www.dianping.com/mudanjiang", 
+      "city_name": "mudanjiang", 
+      "total": 1, 
+      "id": 88, 
+      "city_name_cn": "牡丹江"
+    }, 
+    {
+      "url": "http//www.dianping.com/nanchong", 
+      "city_name": "nanchong", 
+      "total": 1, 
+      "id": 247, 
+      "city_name_cn": "南充"
+    }, 
+    {
+      "url": "http//www.dianping.com/neijiang", 
+      "city_name": "neijiang", 
+      "total": 1, 
+      "id": 245, 
+      "city_name_cn": "内江"
+    }, 
+    {
+      "url": "http//www.dianping.com/ningxiang", 
+      "city_name": "ningxiang", 
+      "total": 1, 
+      "id": 1379, 
+      "city_name_cn": "宁乡县"
+    }, 
+    {
+      "url": "http//www.dianping.com/panjin", 
+      "city_name": "panjin", 
+      "total": 1, 
+      "id": 66, 
+      "city_name_cn": "盘锦"
+    }, 
+    {
+      "url": "http//www.dianping.com/puchengxian", 
+      "city_name": "puchengxian", 
+      "total": 1, 
+      "id": 2026, 
+      "city_name_cn": "蒲城县"
+    }, 
+    {
+      "url": "http//www.dianping.com/puning", 
+      "city_name": "puning", 
+      "total": 1, 
+      "id": 1493, 
+      "city_name_cn": "普宁市"
+    }, 
+    {
+      "url": "http//www.dianping.com/qinzhou", 
+      "city_name": "qinzhou", 
+      "total": 1, 
+      "id": 230, 
+      "city_name_cn": "钦州"
+    }, 
+    {
+      "url": "http//www.dianping.com/qiqihaer", 
+      "city_name": "qiqihaer", 
+      "total": 1, 
+      "id": 80, 
+      "city_name_cn": "齐齐哈尔"
+    }, 
+    {
+      "url": "http//www.dianping.com/quanzhou", 
+      "city_name": "quanzhou", 
+      "total": 1, 
+      "id": 129, 
+      "city_name_cn": "泉州"
+    }, 
+    {
+      "url": "http//www.dianping.com/renqiu", 
+      "city_name": "renqiu", 
+      "total": 1, 
+      "id": 529, 
+      "city_name_cn": "任丘市"
+    }, 
+    {
+      "url": "http//www.dianping.com/ruian", 
+      "city_name": "ruian", 
+      "total": 1, 
+      "id": 904, 
+      "city_name_cn": "瑞安"
+    }, 
+    {
+      "url": "http//www.dianping.com/sanhe", 
+      "city_name": "sanhe", 
+      "total": 1, 
+      "id": 490, 
+      "city_name_cn": "三河市"
+    }, 
+    {
+      "url": "http//www.dianping.com/shaoxing", 
+      "city_name": "shaoxing", 
+      "total": 1, 
+      "id": 104, 
+      "city_name_cn": "绍兴"
+    }, 
+    {
+      "url": "http//www.dianping.com/shaoxingxian", 
+      "city_name": "shaoxingxian", 
+      "total": 1, 
+      "id": 886, 
+      "city_name_cn": "柯桥区"
+    }, 
+    {
+      "url": "http//www.dianping.com/shaoyang", 
+      "city_name": "shaoyang", 
+      "total": 1, 
+      "id": 195, 
+      "city_name_cn": "邵阳"
+    }, 
+    {
+      "url": "http//www.dianping.com/shishi", 
+      "city_name": "shishi", 
+      "total": 1, 
+      "id": 1008, 
+      "city_name_cn": "石狮"
+    }, 
+    {
+      "url": "http//www.dianping.com/songzi", 
+      "city_name": "songzi", 
+      "total": 1, 
+      "id": 1355, 
+      "city_name_cn": "松滋市"
+    }, 
+    {
+      "url": "http//www.dianping.com/suihua", 
+      "city_name": "suihua", 
+      "total": 1, 
+      "id": 90, 
+      "city_name_cn": "绥化"
+    }, 
+    {
+      "url": "http//www.dianping.com/szsuining", 
+      "city_name": "szsuining", 
+      "total": 1, 
+      "id": 831, 
+      "city_name_cn": "睢宁县"
+    }, 
+    {
+      "url": "http//www.dianping.com/taicang", 
+      "city_name": "taicang", 
+      "total": 1, 
+      "id": 420, 
+      "city_name_cn": "太仓"
+    }, 
+    {
+      "url": "http//www.dianping.com/taixing", 
+      "city_name": "taixing", 
+      "total": 1, 
+      "id": 854, 
+      "city_name_cn": "泰兴市"
+    }, 
+    {
+      "url": "http//www.dianping.com/tiantai", 
+      "city_name": "tiantai", 
+      "total": 1, 
+      "id": 901, 
+      "city_name_cn": "天台县"
+    }, 
+    {
+      "url": "http//www.dianping.com/tonghua", 
+      "city_name": "tonghua", 
+      "total": 1, 
+      "id": 74, 
+      "city_name_cn": "通化"
+    }, 
+    {
+      "url": "http//www.dianping.com/tongliao", 
+      "city_name": "tongliao", 
+      "total": 1, 
+      "id": 50, 
+      "city_name_cn": "通辽"
+    }, 
+    {
+      "url": "http//www.dianping.com/wendeng", 
+      "city_name": "wendeng", 
+      "total": 1, 
+      "id": 1163, 
+      "city_name_cn": "文登区"
+    }, 
+    {
+      "url": "http//www.dianping.com/wujiang", 
+      "city_name": "wujiang", 
+      "total": 1, 
+      "id": 419, 
+      "city_name_cn": "吴江"
+    }, 
+    {
+      "url": "http//www.dianping.com/wuyang", 
+      "city_name": "wuyang", 
+      "total": 1, 
+      "id": 1272, 
+      "city_name_cn": "舞阳县"
+    }, 
+    {
+      "url": "http//www.dianping.com/wuyishan", 
+      "city_name": "wuyishan", 
+      "total": 1, 
+      "id": 989, 
+      "city_name_cn": "武夷山"
+    }, 
+    {
+      "url": "http//www.dianping.com/wuzhen", 
+      "city_name": "wuzhen", 
+      "total": 1, 
+      "id": 3513, 
+      "city_name_cn": "乌镇"
+    }, 
+    {
+      "url": "http//www.dianping.com/xianfeng", 
+      "city_name": "xianfeng", 
+      "total": 1, 
+      "id": 1373, 
+      "city_name_cn": "咸丰县"
+    }, 
+    {
+      "url": "http//www.dianping.com/xiangtan", 
+      "city_name": "xiangtan", 
+      "total": 1, 
+      "id": 193, 
+      "city_name_cn": "湘潭"
+    }, 
+    {
+      "url": "http//www.dianping.com/xiangyang", 
+      "city_name": "xiangyang", 
+      "total": 1, 
+      "id": 180, 
+      "city_name_cn": "襄阳"
+    }, 
+    {
+      "url": "http//www.dianping.com/xianning", 
+      "city_name": "xianning", 
+      "total": 1, 
+      "id": 186, 
+      "city_name_cn": "咸宁"
+    }, 
+    {
+      "url": "http//www.dianping.com/xianyang", 
+      "city_name": "xianyang", 
+      "total": 1, 
+      "id": 292, 
+      "city_name_cn": "咸阳"
+    }, 
+    {
+      "url": "http//www.dianping.com/xincang", 
+      "city_name": "xincang", 
+      "total": 1, 
+      "id": 887, 
+      "city_name_cn": "新昌县"
+    }, 
+    {
+      "url": "http//www.dianping.com/xining", 
+      "city_name": "xining", 
+      "total": 1, 
+      "id": 313, 
+      "city_name_cn": "西宁"
+    }, 
+    {
+      "url": "http//www.dianping.com/xinyi", 
+      "city_name": "xinyi", 
+      "total": 1, 
+      "id": 829, 
+      "city_name_cn": "新沂市"
+    }, 
+    {
+      "url": "http//www.dianping.com/yaan", 
+      "city_name": "yaan", 
+      "total": 1, 
+      "id": 252, 
+      "city_name_cn": "雅安"
+    }, 
+    {
+      "url": "http//www.dianping.com/yancheng", 
+      "city_name": "yancheng", 
+      "total": 1, 
+      "id": 97, 
+      "city_name_cn": "盐城"
+    }, 
+    {
+      "url": "http//www.dianping.com/yangquan", 
+      "city_name": "yangquan", 
+      "total": 1, 
+      "id": 37, 
+      "city_name_cn": "阳泉"
+    }, 
+    {
+      "url": "http//www.dianping.com/yanji", 
+      "city_name": "yanji", 
+      "total": 1, 
+      "id": 361, 
+      "city_name_cn": "延吉市"
+    }, 
+    {
+      "url": "http//www.dianping.com/yitong", 
+      "city_name": "yitong", 
+      "total": 1, 
+      "id": 744, 
+      "city_name_cn": "伊通满族自治县"
+    }, 
+    {
+      "url": "http//www.dianping.com/yixing", 
+      "city_name": "yixing", 
+      "total": 1, 
+      "id": 428, 
+      "city_name_cn": "宜兴"
+    }, 
+    {
+      "url": "http//www.dianping.com/yiyang", 
+      "city_name": "yiyang", 
+      "total": 1, 
+      "id": 199, 
+      "city_name_cn": "益阳"
+    }, 
+    {
+      "url": "http//www.dianping.com/yizheng", 
+      "city_name": "yizheng", 
+      "total": 1, 
+      "id": 424, 
+      "city_name_cn": "仪征市"
+    }, 
+    {
+      "url": "http//www.dianping.com/yueqing", 
+      "city_name": "yueqing", 
+      "total": 1, 
+      "id": 905, 
+      "city_name_cn": "乐清"
+    }, 
+    {
+      "url": "http//www.dianping.com/yueyang", 
+      "city_name": "yueyang", 
+      "total": 1, 
+      "id": 196, 
+      "city_name_cn": "岳阳"
+    }, 
+    {
+      "url": "http//www.dianping.com/yuping", 
+      "city_name": "yuping", 
+      "total": 1, 
+      "id": 1775, 
+      "city_name_cn": "玉屏侗族自治县"
+    }, 
+    {
+      "url": "http//www.dianping.com/yuxi", 
+      "city_name": "yuxi", 
+      "total": 1, 
+      "id": 269, 
+      "city_name_cn": "玉溪"
+    }, 
+    {
+      "url": "http//www.dianping.com/zhangjiagang", 
+      "city_name": "zhangjiagang", 
+      "total": 1, 
+      "id": 418, 
+      "city_name_cn": "张家港"
+    }, 
+    {
+      "url": "http//www.dianping.com/zhangjiakou", 
+      "city_name": "zhangjiakou", 
+      "total": 1, 
+      "id": 30, 
+      "city_name_cn": "张家口"
+    }, 
+    {
+      "url": "http//www.dianping.com/zhumadian", 
+      "city_name": "zhumadian", 
+      "total": 1, 
+      "id": 176, 
+      "city_name_cn": "驻马店"
+    }, 
+    {
+      "url": "http//www.dianping.com/zhuzhou", 
+      "city_name": "zhuzhou", 
+      "total": 1, 
+      "id": 192, 
+      "city_name_cn": "株洲"
+    }, 
+    {
+      "url": "http//www.dianping.com/zunyi", 
+      "city_name": "zunyi", 
+      "total": 1, 
+      "id": 260, 
+      "city_name_cn": "遵义"
+    }
+  ], 
+  "keyword": "狼人杀", 
+  "last_update": "2018-03-26T13:56:37.201143"
+}
